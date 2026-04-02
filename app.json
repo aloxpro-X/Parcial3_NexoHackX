@@ -16,6 +16,11 @@
     ],
     "android": {
       "package": "com.alonso.nexohackx"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e5041c1b-e3dc-416e-abb0-7cc199a9a941"
+      }
     }
   }
 }
