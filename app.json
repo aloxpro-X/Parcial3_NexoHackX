@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "NexoHackX",
+    "slug": "nexohackx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#050816"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.alonso.nexohackx"
+    }
+  }
+}
